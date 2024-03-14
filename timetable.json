@@ -5,7 +5,7 @@
       "afterschedule": false,
       "starttime": "7:30",
       "endtime": "8:15",
-      "event": "DE",
+      "event": "",
       "teacher": "AJany",
       "room": "219-S",
       "notes": "DE Frau Jany fällt aus"
@@ -15,7 +15,7 @@
       "afterschedule": false,
       "starttime": "8:35",
       "endtime": "9:10",
-      "event": "DE",
+      "event": "",
       "teacher": "AJany",
       "room": "219-S",
       "notes": "DE Frau Jany fällt aus"
