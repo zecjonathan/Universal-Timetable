@@ -52,7 +52,7 @@
     },
     {
       "number": 6,
-      "afterschedule": true,
+      "afterschedule": false,
       "starttime": "12:15",
       "endtime": "13:00",
       "event": "KL",
