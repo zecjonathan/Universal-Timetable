@@ -41,4 +41,56 @@
       "notes": "für MA Herr Rommel, Frühlingsparty"
     },
   ],
+  "15.03.2024": [
+    {
+      "number": 1,
+      "afterschedule": true,
+      "starttime": "7:30",
+      "endtime": "8:15",
+      "event": "DE",
+      "teacher": "AJany",
+      "room": "219-S",
+      "notes": ""
+    },
+    {
+      "number": 2,
+      "afterschedule": true,
+      "starttime": "8:25",
+      "endtime": "9:10",
+      "event": "DE",
+      "teacher": "AJany",
+      "room": "219-S",
+      "notes": ""
+    },
+    {
+      "number": 3,
+      "afterschedule": true,
+      "starttime": "9:30",
+      "endtime": "10:15",
+      "event": "EN",
+      "teacher": "ViM",
+      "room": "116-S",
+      "notes": ""
+    },
+    {
+      "number": 4,
+      "afterschedule": true,
+      "starttime": "10:25",
+      "endtime": "11:10",
+      "event": "EN",
+      "teacher": "ViM",
+      "room": "116-S",
+      "notes": ""
+    },
+    {
+      "number": 5,
+      "afterschedule": false,
+      "starttime": "11:20",
+      "endtime": "12:05",
+      "event": "GRW",
+      "teacher": "PanE",
+      "room": "06",
+      "notes": ""
+    },
+  ],
 }
