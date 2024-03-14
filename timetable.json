@@ -1,0 +1,213 @@
+{
+  "13.03.2024": [
+    {
+      "number": 1,
+      "afterschedule": true,
+      "starttime": "7:30",
+      "endtime": "8:15",
+      "event": "Math Class",
+      "teacher": "Ms. Johnson",
+      "room": "301",
+      "notes": "Complete exercises on Khan Academy"
+    },
+    {
+      "number": 2,
+      "afterschedule": false,
+      "starttime": "8:25",
+      "endtime": "9:10",
+      "event": "Science Class",
+      "teacher": "Mr. Smith",
+      "room": "302",
+      "notes": "Lab experiment on chemical reactions"
+    },
+    {
+      "number": 3,
+      "starttime": "9:20",
+      "endtime": "10:05",
+      "event": "English Class",
+      "teacher": "Ms. White",
+      "room": "303",
+      "notes": "Literature analysis"
+    },
+    {
+      "number": 4,
+      "starttime": "10:15",
+      "endtime": "11:00",
+      "event": "History Class",
+      "teacher": "Mr. Davis",
+      "room": "304",
+      "notes": "Discussion on World War II"
+    },
+    {
+      "number": 5,
+      "starttime": "11:10",
+      "endtime": "11:55",
+      "event": "Art Class",
+      "teacher": "Ms. Martinez",
+      "room": "305",
+      "notes": "Drawing session"
+    },
+    {
+      "number": 6,
+      "afterschedule": true,
+      "starttime": "12:05",
+      "endtime": "12:50",
+      "event": "Physical Education",
+      "teacher": "Mr. Johnson",
+      "room": "Gymnasium",
+      "notes": "Basketball practice"
+    },
+    {
+      "daynote": "Class 6 and 8, fdkf tomorrow"
+    }
+  ],
+  "14.03.2024": [
+    {
+      "number": 1,
+      "afterschedule": true,
+      "starttime": "7:30",
+      "endtime": "8:15",
+      "event": "Math Class",
+      "teacher": "Ms. Rodriguez",
+      "room": "303",
+      "notes": "Review homework from last class"
+    },
+    {
+      "number": 2,
+      "afterschedule": false,
+      "starttime": "8:25",
+      "endtime": "9:10",
+      "event": "Science Class",
+      "teacher": "Mr. Brown",
+      "room": "304",
+      "notes": "Discussion on the scientific method"
+    },
+    {
+      "number": 3,
+      "starttime": "9:20",
+      "endtime": "10:05",
+      "event": "Literature Class",
+      "teacher": "Ms. Adams",
+      "room": "305",
+      "notes": "Poetry analysis"
+    },
+    {
+      "number": 4,
+      "starttime": "10:15",
+      "endtime": "11:00",
+      "event": "Geography Class",
+      "teacher": "Ms. Green",
+      "room": "306",
+      "notes": "Study of continents and oceans"
+    },
+    {
+      "number": 5,
+      "starttime": "11:10",
+      "endtime": "11:55",
+      "event": "Music Class",
+      "teacher": "Mr. Taylor",
+      "room": "307",
+      "notes": "Introduction to classical music"
+    },
+    {
+      "number": 6,
+      "afterschedule": true,
+      "starttime": "12:05",
+      "endtime": "12:50",
+      "event": "Technology Class",
+      "teacher": "Mr. Wilson",
+      "room": "308",
+      "notes": "Coding fundamentals"
+    },
+    {
+      "daynote": "Remember to bring textbooks for classes 3 and 4."
+    }
+  ],
+  "15.03.2024": [
+    {
+      "number": 1,
+      "afterschedule": true,
+      "starttime": "7:30",
+      "endtime": "8:15",
+      "event": "Math Class",
+      "teacher": "Ms. Lee",
+      "room": "305",
+      "notes": "Quiz on algebraic equations"
+    },
+    {
+      "number": 2,
+      "afterschedule": false,
+      "starttime": "8:25",
+      "endtime": "9:10",
+      "event": "Science Class",
+      "teacher": "Mr. Garcia",
+      "room": "306",
+      "notes": "Presentation on renewable energy sources"
+    },
+    {
+      "number": 3,
+      "starttime": "9:20",
+      "endtime": "10:05",
+      "event": "Foreign Language Class",
+      "teacher": "Ms. Hernandez",
+      "room": "307",
+      "notes": "Spanish grammar exercises"
+    },
+    {
+      "number": 4,
+      "starttime": "10:15",
+      "endtime": "11:00",
+      "event": "Physical Education",
+      "teacher": "Mr. Johnson",
+      "room": "Gymnasium",
+      "notes": "Soccer practice"
+    },
+    {
+      "number": 5,
+      "starttime": "11:10",
+      "endtime": "11:55",
+      "event": "Health Class",
+      "teacher": "Ms. Phillips",
+      "room": "309",
+      "notes": "Nutrition and wellness"
+    },
+    {
+      "number": 6,
+      "afterschedule": true,
+      "starttime": "12:05",
+      "endtime": "12:50",
+      "event": "Art Class",
+      "teacher": "Ms. Martinez",
+      "room": "310",
+      "notes": "Painting techniques"
+    },
+    {
+      "daynote": "Bring your Spanish textbook for class 3."
+    }
+  ],
+  "16.03.2024": [
+    {
+      "number": 1,
+      "afterschedule": true,
+      "starttime": "7:30",
+      "endtime": "8:15",
+      "event": "Math Class",
+      "teacher": "Ms. Lee",
+      "room": "305",
+      "notes": "Quiz on algebraic equations"
+    },
+    {
+      "number": 2,
+      "afterschedule": false,
+      "starttime": "8:25",
+      "endtime": "9:10",
+      "event": "Science Class",
+      "teacher": "Mr. Garcia",
+      "room": "306",
+      "notes": "Presentation on renewable energy sources"
+    },
+    {
+      "daynote": "heyo only 2 lessons"
+    }
+  ],
+}
