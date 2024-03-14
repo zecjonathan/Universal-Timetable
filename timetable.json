@@ -1,26 +1,6 @@
 {
   "14.03.2024": [
     {
-      "number": 1,
-      "afterschedule": false,
-      "starttime": "7:30",
-      "endtime": "8:15",
-      "event": "",
-      "teacher": "AJany",
-      "room": "219-S",
-      "notes": "DE Frau Jany fällt aus"
-    },
-    {
-      "number": 2,
-      "afterschedule": false,
-      "starttime": "8:35",
-      "endtime": "9:10",
-      "event": "",
-      "teacher": "AJany",
-      "room": "219-S",
-      "notes": "DE Frau Jany fällt aus"
-    },
-    {
       "number": 3,
       "afterschedule": true,
       "starttime": "9:30",
